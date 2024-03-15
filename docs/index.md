@@ -4,11 +4,17 @@ Romeo en Julia zijn tot over de oren verliefd. Zij zullen in elke situatie trach
 
 ## Regels
 
-- Gebruik de knoppen in GeoGebra.
+- Je mag alleen de knoppen gebruiken (geen algebra).
 - Zorg er voor dat de oplossing geldig is in elke situatie. Wanneer je Romeo en Julia op een ander punt neerzet moet de oplossing dus meebewegen.
 
 ## Probleem 1
 
 Er is nog geen probleem, Romeo en Julia kunnen simpelweg op elkaar af rennen. Construeer het midden.
 
-<iframe src="https://www.geogebra.org/calculator/tdsdxjfx?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+<iframe src="https://www.geogebra.org/calculator/wbjcgxdn?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+## Probleem 2
+
+Tragischerwijs staan Romeo en Julia een weerzijde van een roerige rivier. Gelukkig is er een brug waarlangs zij over het water kunnen.
+
+<iframe src="https://www.geogebra.org/calculator/wbjcgxdn?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
