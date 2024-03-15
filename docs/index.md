@@ -1,3 +1,27 @@
+<head>
+  
+<meta name=viewport content="width=device-width,initial-scale=1">  
+<meta charset="utf-8"/>
+</head>
+
+<script src="https://www.geogebra.org/apps/deployggb.js">    var params = {
+            "appName": "graphing", 
+            "width": 800, 
+            "height": 600, 
+            "showToolBar": true, 
+            "showAlgebraInput": true, 
+            "showMenuBar": true,
+            };
+    var ggbApplet = new GGBApplet(params, true);
+    window.addEventListener("load", function() { 
+        ggbApplet.inject('ggb-element');
+    });</script>
+
+
+
+    
+<div id="ggb-element"></div>
+
 # Romeo en Julia
 
 Romeo en Julia zijn tot over de oren verliefd. Zij zullen in elke situatie trachten zo spoedig mogelijk elkaar in de armen te vallen. Zij rennen dan met gelijke snelheid - zo snel mogelijk - op elkaar af, zodanig dat ze elkaar halverwege ontmoeten. Het tragisch lot wil echter dat zij telkens in peniebele situaties terecht komen. Ze worden dan gescheiden door het één of ander obstakel dat ze moeten zien te overwinnen. Het is aan jou om het punt te construeren waarop zij elkaar treffen.
