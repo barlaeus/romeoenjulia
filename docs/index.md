@@ -1,11 +1,11 @@
-Romeo en Julia zijn tot over de oren verliefd. Zij zullen in elke situatie trachten zo spoedig mogelijk elkander in de armen te vallen. Zij rennen dan met gelijke snelheid - zo snel mogelijk - op elkaar af, zodanig dat ze elkaar halverwege ontmoeten. Het tragisch lot wil echter dat zij telkens in peniebele situaties terecht komen. Ze worden dan gescheiden door het één of ander obstakel dat ze moeten zien te overwinnen. Aan jou de taak om ze te helpen door de snelste route te onderzoeken.
+Romeo en Julia zijn tot over de oren verliefd. Zij zullen in elke situatie trachten zo spoedig mogelijk elkander in de armen te vallen. Zij rennen dan met gelijke snelheid - zo snel mogelijk - op elkaar af, zodanig dat ze elkaar halverwege ontmoeten. Het tragisch toeval wil echter dat zij telkens in peniebele penarie terecht komen. Ze worden dan gescheiden door het één of ander obstakel dat ze moeten zien te overwinnen. Aan jou de taak om ze te helpen door de snelste route te onderzoeken.
 
 ## Regels
 
 - Je mag alleen de knoppen gebruiken (geen algebra).
-- Zorg er voor dat de oplossing geldig is in elke situatie. Wanneer je Romeo en Julia op een ander punt neerzet moet de oplossing dus meebewegen.
+- Zorg er voor dat de oplossing geldig is in elke situatie. Wanneer je Romeo en Julia versleept een ander punt moet de oplossing dus meebewegen.
 
-## Snel snel
+## Snel snellen
 
 Er is nog geen probleem, Romeo en Julia kunnen simpelweg op elkaar af rennen. Construeer het midden van de route.
 
