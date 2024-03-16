@@ -1,5 +1,7 @@
 Romeo en Julia zijn tot over de oren verliefd. Zij zullen in elke situatie trachten zo spoedig mogelijk elkander in de armen te vallen. Zij rennen dan met gelijke snelheid - zo snel mogelijk - op elkaar af, zodanig dat ze elkaar halverwege ontmoeten. Het tragisch toeval wil echter dat zij telkens in peniebele penarie terecht komen. Ze worden dan gescheiden door het één of ander obstakel dat ze moeten zien te overwinnen. Aan jou de taak om ze te helpen door de snelste route te onderzoeken.
 
+(door Benjamin del Canho)
+
 ## Regels
 
 - Je mag alleen de knoppen gebruiken (geen algebra).
