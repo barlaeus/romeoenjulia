@@ -31,5 +31,5 @@ Romeo en Julia zouden op elkaar af willen rennen, maar hebben ook dorst. Zij sne
 </ol>
 
 <p align=center>
-<iframe scrolling="no" title="romeojulia_dorst" src="https://www.geogebra.org/material/iframe/id/bzasvjge/width/720/height/360/border/888888/sfsb/true/smb/false/stb/true/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/true" width="720px" height="360px" style="border:0px;"> </iframe>
+<iframe scrolling="no" title="romeojulia_dorst" src="https://www.geogebra.org/material/iframe/id/bzasvjge/width/720/height/360/border/888888/sfsb/true/smb/false/stb/true/stbh/false/ai/false/asb/false/sri/true/rc/true/ld/false/sdz/true/ctl/true" width="720px" height="360px" style="border:0px;"> </iframe>
 </p>
