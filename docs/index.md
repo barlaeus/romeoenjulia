@@ -11,9 +11,7 @@ Romeo en Julia zijn tot over de oren verliefd. Zij zullen in elke situatie trach
 
 Er is nog geen probleem, Romeo en Julia kunnen simpelweg op elkaar af rennen. Construeer het midden.
 
-<iframe src="https://www.geogebra.org/calculator/wbjcgxdn?embede " width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"
-  showResetIcon="true" showToolBar="true"
-  ></iframe>
+<iframe scrolling="no" title="romeojulia_simpel" src="https://www.geogebra.org/material/iframe/id/wbjcgxdn/width/720/height/360/border/888888/sfsb/true/smb/true/stb/true/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/true" width="720px" height="360px" style="border:0px;"> </iframe>
 
 ## Roerige Rivier
 
