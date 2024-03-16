@@ -23,10 +23,10 @@ Tragischerwijs staan Romeo en Julia een weerzijde van een roerige rivier. Gelukk
 
 ## Via de rivier
 
-Romeo en Julia zouden op elkaar af willen rennen, maar hebben ook dorst. Zij snellen daarom eerst naar de rivier. Construeer het punt A op de rivier zó dat:
+Romeo en Julia zouden op elkaar af willen rennen, maar hebben ook dorst. Zij snellen daarom eerst naar de rivier. We onderzoeken twee mogelijke situaties. Construeer het punt A op de rivier zó dat:
 
 <ol type="a">
-  <li>Zij op hetzelfde moment aankomen bij de rivier</li>
+  <li>Zij op hetzelfde moment aankomen bij de rivier.</li>
   <li>Zij zo snel mogelijk elkander in de armen kunnen vallen, als slechts één van hen de waterfles hoeft te vullen. </li>
 </ol>
 
