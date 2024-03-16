@@ -11,13 +11,17 @@ Romeo en Julia zijn tot over de oren verliefd. Zij zullen in elke situatie trach
 
 Er is nog geen probleem, Romeo en Julia kunnen simpelweg op elkaar af rennen. Construeer het midden.
 
-<iframe scrolling="no" title="romeojulia_simpel" src="https://www.geogebra.org/material/iframe/id/wbjcgxdn/width/720/height/360/border/888888/sfsb/true/smb/true/stb/true/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/true" width="720px" height="360px" style="border:0px;"> </iframe>
+<p align=center>
+<iframe scrolling="no" title="romeojulia_simpel" src="https://www.geogebra.org/material/iframe/id/wbjcgxdn/width/720/height/360/border/888888/sfsb/true/smb/false/stb/true/stbh/false/ai/true/asb/false/sri/true/rc/true/ld/false/sdz/true/ctl/true" width="720px" height="360px" style="border:0px;"> </iframe>
+</p>
 
 ## Roerige Rivier
 
 Tragischerwijs staan Romeo en Julia een weerzijde van een roerige rivier. Gelukkig is er een brug waarlangs zij over het water kunnen.
 
-<iframe scrolling="no" title="romeojulia_rivier" src="https://www.geogebra.org/material/iframe/id/dq9gesqp/width/720/height/360/border/888888/sfsb/true/smb/true/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" width="720px" height="360px" style="border:0px;"> </iframe>
+<p align=center>
+<iframe scrolling="no" title="romeojulia_rivier" src="https://www.geogebra.org/material/iframe/id/dq9gesqp/width/720/height/360/border/888888/sfsb/true/smb/false/stb/true/stbh/false/ai/true/asb/false/sri/true/rc/true/ld/false/sdz/true/ctl/true" width="720px" height="360px" style="border:0px;"> </iframe>
+</p>
 
 ## Via de rivier
 
@@ -28,4 +32,6 @@ Romeo en Julia zouden op elkaar af willen rennen, maar hebben ook dorst. Zij sne
   <li>Zij zo snel mogelijk elkander in de armen kunnen vallen, als slechts één van hen de waterfles hoeft te vullen. </li>
 </ol>
 
-<iframe scrolling="no" title="romeojulia_rivier" src="https://www.geogebra.org/material/iframe/id/dq9gesqp/width/720/height/360/border/888888/sfsb/true/smb/false/stb/true/stbh/false/ai/true/asb/false/sri/true/rc/true/ld/false/sdz/true/ctl/true" width="720px" height="360px" style="border:0px;"> </iframe>
+<p align=center>
+<iframe scrolling="no" title="romeojulia_dorst" src="https://www.geogebra.org/material/iframe/id/bzasvjge/width/720/height/360/border/888888/sfsb/true/smb/true/stb/true/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/true" width="720px" height="360px" style="border:0px;"> </iframe>
+</p>
