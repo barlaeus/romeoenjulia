@@ -19,7 +19,6 @@ Er is nog geen probleem, Romeo en Julia kunnen simpelweg op elkaar af rennen. Co
 
 Tragischerwijs staan Romeo en Julia een weerzijde van een roerige rivier. Gelukkig is er een brug waarlangs zij over het water kunnen.
 
-
-<iframe src="https://www.geogebra.org/calculator/dq9gesqp?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+<iframe scrolling="no" title="romeojulia_rivier" src="https://www.geogebra.org/material/iframe/id/dq9gesqp/width/720/height/360/border/888888/sfsb/true/smb/true/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" width="720px" height="360px" style="border:0px;"> </iframe>
 
 ## Probleem 3
